@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce and Inventory Management System (Backend)
 
 Capstone Project 4 – Backend Development. A REST API with real-time notifications for customers, sellers and administrators.
@@ -170,3 +171,6 @@ To regenerate the collection: `python3 scripts/build_postman.py`.
 | Real-time | `config/events.js`, `config/listeners.js`, `config/socket.js` |
 | API testing | `postman/` |
 | Demo, documentation, viva | README, seed data, `socket-demo` |
+=======
+# ecommerce-backend
+>>>>>>> fd54d955961a8c2644fc3d53d6002115abe60877
